@@ -19,11 +19,15 @@ module CsvCountrySelectorEn
     end
 
     def self.short_for(country_name)
-      codes.select { |_k, v| v.casecmp(country_name).zero? }.try(:first).try(:first)
+      country = codes.select { |_k, v| v.casecmp(country_name).zero? }.first
+      return unless country
+      country.first
     end
 
     def self.long_for(country_name)
-      codes.select { |k, _v| k.casecmp(country_name).zero? }.try(:first).try(:last)
+      country = codes.select { |k, _v| k.casecmp(country_name).zero? }.first
+      return unless country
+      country.last
     end
 
     def self.short_list

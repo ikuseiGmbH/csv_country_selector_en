@@ -1,25 +1,28 @@
 AT;A;DE;AT;OESTER;Austria;German
 BE;B;EN;BE;BELLUX;Belgium;Belgian
 BG;BG;;BG;;Bulgaria;Bulgarian
-CH;CH;DE;CH;SCHWZ;Switzerland;"German; French"
+CY;CY;;CY;;Cyprus;Greek
+CZ;CZ;;CZ;TSCHE;Czech Republic;Czech
 DE;D;DE;DE;;Germany;German
+DK;DK;DA;DK;DAENM;Denmark;Danish
+EE;EST;RU;EE;ESTLD;Estonia;Estonian
 ES;E;ES;ES;SPAN;Spain;Spanish
 FI;FIN;SV;FI;FINNL;Finnland;Finnish
-GD;;;GD;;Grenada;
-GE;;;GE;GEORG;Georgia;Georgian
-GI;GBZ;;GI;;Gibraltar;
+FR;F;FR;FR;FRANKR;France;French
+GB;GB;EN;GB;GBRIT;United Kingdom;English
 GR;GR;;GR;;Greece;Greek
 HR;;;HR;;Croatia;
 HU;H;RU;HU;UNGARN;Hungary;Hungarian
 IE;IRL;EN;IE;;Ireland;English
 IT;I;IT;IT;ITAL;Italy;Italian
+LT;LT;LT;LT;LITAU;Lithuania;Lithuanian
 LU;L;FR;LU;;Luxembourg;"French; German; Luxembourgish"
-MC;MC;FR;MC;;Monaco;French
-MD;;;MD;MOLDAU;Moldova;Romanian
+LV;LV;;LV;LETTLD;Latvia;Latvian
 MT;M;;MT;;Malta;Maltese
-NO;N;NO;NO;NORWEG;Norway;Norwegian
+NL;NL;NL;NL;NIEDL;Netherlands;Dutch
 PL;PL;;PL;;Poland;Polish
 PT;P;PT;PT;;Portugal;Portugese
 RO;RO;;RO;;Romania;Romanian
+SE;S;SV;SE;SCHWED;Sweden;Swedish
 SI;SLO;SL;SI;SLOWEN;Slovenia;Slovenian
-TR;TR;;TR;;Turkey;Turkish
+SK;SK;SK;SK;SLOWA;Slovakia;Slovakian
